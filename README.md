@@ -1,6 +1,6 @@
 # Interventional Causal Representation Learning
 
-Simple demo for [Interventional Causal Representation Learning by Ahuja et. al. 2022](https://arxiv.org/abs/2209.11924) affiliated for our CMU 10716 course project final report. 
+Simple demo for [Interventional Causal Representation Learning by Ahuja et. al. 2022](https://arxiv.org/abs/2209.11924) attached to our CMU 10716 course project final report. 
 Code is adapted [original code repository](https://github.com/facebookresearch/CausalRepID).
 
 Please see the <tt>synthetic_data_exp.ipynb</tt> and <tt>real_data_exp.ipynb</tt> to reimplement our experiment results.
