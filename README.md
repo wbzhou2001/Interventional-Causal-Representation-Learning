@@ -13,4 +13,4 @@ Please rerun the notebooks to reimplement our experiment results.
 
 We note that due to Github's file upload size limit we have cut the train size from 20000 to 1000 for our synthetic experiment, and took the first 200 features for our real data experiment in this repository.
 
-Group member: D. Deng, Y. Guo and W. Zhou.
+**Group members**: D. Deng, Y. Guo and W. Zhou.
