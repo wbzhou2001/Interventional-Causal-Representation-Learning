@@ -7,6 +7,8 @@ Please see the <tt>synthetic_data_exp.ipynb</tt> and <tt>real_data_exp.ipynb</tt
 Our result includes causal representation learning over synethic data experiment uses PyGame generated images with hard do-interventions, as well as causal representation learning with deep brain stimulation real data.
 Please rerun the notebooks to reimplement our experiment results.
 
-![](figs/recon.png =250x)
+<p align="center">
+  <img src="figs/recon.png" alt="balls" width="600"/>
+</p>
 
 We note that due to Github's file upload size limit we have cut the train size from 20000 to 1000 for our synthetic experiment, and took the first 200 features for our real data experiment in this repository.
